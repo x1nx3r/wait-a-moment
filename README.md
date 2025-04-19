@@ -2,8 +2,6 @@
 
 A simple but elegant loading page that handles waiting for backend services to start up before redirecting users.
 
-![Loading Screen Preview](https://via.placeholder.com/600x400?text=Loading+Screen)
-
 ## Features
 
 - **Elegant Loading Interface**: GitHub-inspired dark theme with a spinning loader to indicate progress
